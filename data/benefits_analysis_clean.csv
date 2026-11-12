@@ -1,0 +1,900 @@
+tech_company,benefits,workplace_resources,mh_employer_discussion,mh_coworker_discussion,medical_coverage,mental_health
+Yes,My employer does not provide benefits,I don't know if my employer provides access resources,No,Yes,Yes,Possibly
+Yes,My employer provides benefits,My employer does not provide access resources,No,Yes,Yes,Possibly
+Yes,I don't know if my employer provides benefits,My employer does not provide access resources,Yes,Yes,No,Yes
+Yes,My employer provides benefits,I don't know if my employer provides access resources,Yes,Yes,Yes,Yes
+Yes,My employer provides benefits,My employer does not provide access resources,No,Yes,Yes,Yes
+Yes,My employer provides benefits,My employer does not provide access resources,No,No,Yes,No
+Yes,I don't know if my employer provides benefits,I don't know if my employer provides access resources,No,No,Yes,Yes
+Yes,I don't know if my employer provides benefits,I don't know if my employer provides access resources,No,No,Yes,Yes
+Yes,I don't know if my employer provides benefits,My employer does not provide access resources,No,Yes,Yes,Possibly
+Yes,My employer does not provide benefits,My employer does not provide access resources,No,No,Yes,Possibly
+Yes,My employer does not provide benefits,My employer does not provide access resources,Yes,Yes,Yes,Yes
+Yes,My employer does not provide benefits,My employer does not provide access resources,No,No,Yes,Don't Know
+Yes,My employer provides benefits,My employer does not provide access resources,No,No,Yes,Yes
+Yes,My employer provides benefits,My employer does not provide access resources,Yes,No,Yes,Yes
+Yes,My employer provides benefits,My employer does not provide access resources,No,Yes,Yes,Yes
+Yes,My employer provides benefits,I don't know if my employer provides access resources,Yes,No,Yes,Possibly
+Yes,My employer provides benefits,I don't know if my employer provides access resources,No,Yes,Yes,Yes
+Yes,My employer provides benefits,My employer provides access resources,No,Yes,Yes,Possibly
+Yes,My employer provides benefits,I don't know if my employer provides access resources,Yes,Yes,Yes,Yes
+Yes,My employer provides benefits,I don't know if my employer provides access resources,No,Yes,Yes,Yes
+Yes,My employer provides benefits,My employer does not provide access resources,Yes,No,Yes,Yes
+Yes,I don't know if my employer provides benefits,I don't know if my employer provides access resources,No,No,Yes,Don't Know
+Yes,I don't know if my employer provides benefits,My employer provides access resources,No,No,Yes,Yes
+Yes,My employer provides benefits,I don't know if my employer provides access resources,No,No,Yes,No
+Yes,My employer provides benefits,My employer provides access resources,Yes,Yes,Yes,Yes
+Yes,My employer does not provide benefits,My employer provides access resources,No,No,Yes,Yes
+Yes,My employer provides benefits,My employer does not provide access resources,Yes,Yes,Yes,Yes
+Yes,I don't know if my employer provides benefits,I don't know if my employer provides access resources,No,No,No,No
+Yes,My employer provides benefits,My employer does not provide access resources,No,Yes,Yes,No
+Yes,I don't know if my employer provides benefits,My employer does not provide access resources,No,No,No,No
+Yes,I don't know if my employer provides benefits,My employer does not provide access resources,No,No,Yes,Possibly
+Yes,My employer provides benefits,My employer does not provide access resources,Yes,No,Yes,Yes
+Yes,My employer provides benefits,I don't know if my employer provides access resources,No,No,Yes,Yes
+Yes,I don't know if my employer provides benefits,I don't know if my employer provides access resources,No,No,Yes,Yes
+Yes,My employer provides benefits,My employer does not provide access resources,No,No,Yes,Yes
+Yes,My employer provides benefits,I don't know if my employer provides access resources,No,No,Yes,Yes
+Yes,My employer does not provide benefits,My employer does not provide access resources,Yes,Yes,Yes,Yes
+Yes,My employer provides benefits,My employer provides access resources,Yes,No,Yes,Yes
+Yes,My employer provides benefits,I don't know if my employer provides access resources,Yes,Yes,Yes,Don't Know
+Yes,My employer provides benefits,My employer does not provide access resources,No,Yes,Yes,Yes
+Yes,My employer provides benefits,I don't know if my employer provides access resources,Yes,Yes,Yes,Yes
+Yes,My employer does not provide benefits,I don't know if my employer provides access resources,No,No,Yes,Possibly
+Yes,My employer provides benefits,I don't know if my employer provides access resources,Yes,Yes,Yes,Yes
+Yes,My employer provides benefits,My employer provides access resources,No,No,Yes,No
+Yes,I don't know if my employer provides benefits,I don't know if my employer provides access resources,No,No,Yes,Possibly
+Yes,I don't know if my employer provides benefits,My employer does not provide access resources,No,No,Yes,Don't Know
+Yes,My employer provides benefits,My employer does not provide access resources,Yes,Yes,Yes,Yes
+Yes,My employer provides benefits,My employer provides access resources,Yes,No,Yes,Yes
+Yes,My employer provides benefits,My employer provides access resources,Yes,Yes,Yes,Yes
+Yes,My employer provides benefits,My employer does not provide access resources,Yes,Yes,Yes,No
+Yes,My employer provides benefits,My employer provides access resources,No,Yes,Yes,Possibly
+Yes,My employer provides benefits,My employer provides access resources,No,No,Yes,Don't Know
+Yes,My employer provides benefits,My employer provides access resources,Yes,Yes,Yes,Yes
+Yes,I don't know if my employer provides benefits,My employer does not provide access resources,No,No,No,No
+Yes,My employer does not provide benefits,My employer provides access resources,Yes,Yes,Yes,Yes
+Yes,My employer provides benefits,My employer provides access resources,No,No,Yes,Don't Know
+Yes,My employer provides benefits,My employer does not provide access resources,No,Yes,Yes,Possibly
+Yes,I don't know if my employer provides benefits,My employer does not provide access resources,No,No,Yes,No
+Yes,My employer provides benefits,My employer provides access resources,No,Yes,Yes,Yes
+Yes,My employer provides benefits,I don't know if my employer provides access resources,No,Yes,Yes,No
+Yes,My employer does not provide benefits,I don't know if my employer provides access resources,No,No,Yes,Possibly
+Yes,I don't know if my employer provides benefits,My employer does not provide access resources,Yes,No,Yes,Possibly
+Yes,I don't know if my employer provides benefits,My employer does not provide access resources,Yes,Yes,Yes,Yes
+Yes,My employer provides benefits,My employer does not provide access resources,Yes,Yes,Yes,Yes
+Yes,I don't know if my employer provides benefits,My employer provides access resources,Yes,Yes,No,Possibly
+Yes,My employer provides benefits,My employer does not provide access resources,No,Yes,Yes,Possibly
+Yes,My employer does not provide benefits,My employer does not provide access resources,No,Yes,Yes,Yes
+Yes,My employer provides benefits,My employer does not provide access resources,No,No,Yes,No
+Yes,I don't know if my employer provides benefits,My employer does not provide access resources,No,Yes,Yes,Yes
+Yes,My employer provides benefits,My employer does not provide access resources,Yes,No,Yes,Possibly
+Yes,My employer provides benefits,I don't know if my employer provides access resources,No,Yes,Yes,Yes
+Yes,My employer provides benefits,My employer does not provide access resources,No,No,Yes,Possibly
+Yes,My employer provides benefits,My employer does not provide access resources,Yes,Yes,Yes,Yes
+Yes,My employer provides benefits,I don't know if my employer provides access resources,Yes,Yes,Yes,Yes
+Yes,I don't know if my employer provides benefits,My employer does not provide access resources,No,No,Yes,Possibly
+Yes,I don't know if my employer provides benefits,I don't know if my employer provides access resources,No,No,Yes,Don't Know
+Yes,My employer provides benefits,My employer provides access resources,No,Yes,Yes,Yes
+Yes,My employer provides benefits,My employer does not provide access resources,No,Yes,Yes,Possibly
+Yes,My employer provides benefits,My employer does not provide access resources,No,No,Yes,Possibly
+Yes,My employer provides benefits,I don't know if my employer provides access resources,Yes,No,Yes,No
+Yes,My employer does not provide benefits,My employer does not provide access resources,Yes,Yes,Yes,No
+Yes,My employer provides benefits,My employer does not provide access resources,No,No,Yes,No
+Yes,My employer provides benefits,I don't know if my employer provides access resources,Yes,Yes,Yes,Yes
+Yes,My employer provides benefits,My employer provides access resources,No,Yes,Yes,No
+Yes,My employer provides benefits,My employer does not provide access resources,Yes,Yes,Yes,Yes
+Yes,I don't know if my employer provides benefits,My employer does not provide access resources,Yes,No,Yes,Yes
+Yes,My employer provides benefits,My employer provides access resources,No,Yes,Yes,Yes
+Yes,My employer provides benefits,My employer provides access resources,No,No,Yes,No
+Yes,My employer provides benefits,My employer does not provide access resources,No,Yes,Yes,Don't Know
+Yes,My employer provides benefits,I don't know if my employer provides access resources,Yes,No,Yes,Yes
+Yes,My employer provides benefits,My employer provides access resources,Yes,No,Yes,No
+Yes,My employer provides benefits,My employer does not provide access resources,No,Yes,Yes,Yes
+Yes,I don't know if my employer provides benefits,My employer provides access resources,No,No,No,Yes
+Yes,I don't know if my employer provides benefits,I don't know if my employer provides access resources,No,No,Yes,No
+Yes,I don't know if my employer provides benefits,I don't know if my employer provides access resources,No,No,Yes,Possibly
+Yes,My employer does not provide benefits,I don't know if my employer provides access resources,No,No,Yes,Don't Know
+Yes,My employer does not provide benefits,My employer does not provide access resources,No,No,Yes,No
+Yes,My employer does not provide benefits,My employer does not provide access resources,No,No,Yes,Don't Know
+Yes,My employer does not provide benefits,My employer does not provide access resources,No,No,Yes,No
+Yes,My employer does not provide benefits,My employer does not provide access resources,No,No,Yes,Don't Know
+Yes,My employer does not provide benefits,My employer does not provide access resources,No,No,Yes,Don't Know
+Yes,My employer provides benefits,My employer provides access resources,Yes,No,Yes,No
+Yes,My employer provides benefits,My employer provides access resources,No,Yes,Yes,No
+Yes,My employer provides benefits,My employer provides access resources,Yes,Yes,Yes,Yes
+Yes,My employer provides benefits,My employer provides access resources,Yes,Yes,Yes,Yes
+Yes,My employer provides benefits,My employer provides access resources,Yes,Yes,Yes,Yes
+Yes,My employer provides benefits,My employer provides access resources,Yes,No,Yes,Yes
+Yes,I don't know if my employer provides benefits,My employer does not provide access resources,No,No,Yes,Possibly
+Yes,I don't know if my employer provides benefits,I don't know if my employer provides access resources,No,No,Yes,Don't Know
+Yes,I don't know if my employer provides benefits,I don't know if my employer provides access resources,No,No,No,Yes
+Yes,My employer provides benefits,I don't know if my employer provides access resources,No,No,Yes,Yes
+Yes,My employer provides benefits,My employer does not provide access resources,No,Yes,Yes,Don't Know
+Yes,My employer provides benefits,I don't know if my employer provides access resources,Yes,Yes,Yes,Possibly
+Yes,I don't know if my employer provides benefits,My employer does not provide access resources,No,Yes,No,Possibly
+Yes,I don't know if my employer provides benefits,I don't know if my employer provides access resources,No,No,Yes,Possibly
+Yes,My employer provides benefits,My employer does not provide access resources,No,Yes,Yes,Yes
+Yes,I don't know if my employer provides benefits,My employer does not provide access resources,No,No,Yes,Possibly
+Yes,I don't know if my employer provides benefits,I don't know if my employer provides access resources,Yes,Yes,Yes,Possibly
+Yes,My employer provides benefits,My employer provides access resources,No,No,Yes,Yes
+Yes,My employer provides benefits,I don't know if my employer provides access resources,Yes,Yes,Yes,Yes
+Yes,I don't know if my employer provides benefits,I don't know if my employer provides access resources,Yes,No,Yes,Don't Know
+Yes,My employer provides benefits,My employer provides access resources,Yes,Yes,Yes,No
+Yes,I don't know if my employer provides benefits,I don't know if my employer provides access resources,Yes,No,Yes,No
+Yes,I don't know if my employer provides benefits,My employer does not provide access resources,No,No,No,No
+Yes,My employer does not provide benefits,My employer does not provide access resources,No,Yes,No,Yes
+Yes,I don't know if my employer provides benefits,My employer does not provide access resources,No,Yes,No,Yes
+Yes,My employer provides benefits,I don't know if my employer provides access resources,No,Yes,Yes,Possibly
+Yes,My employer provides benefits,My employer provides access resources,Yes,Yes,Yes,Yes
+Yes,My employer provides benefits,My employer does not provide access resources,Yes,Yes,Yes,Yes
+Yes,I don't know if my employer provides benefits,I don't know if my employer provides access resources,No,No,Yes,Don't Know
+Yes,I don't know if my employer provides benefits,I don't know if my employer provides access resources,Yes,Yes,Yes,Possibly
+Yes,My employer provides benefits,I don't know if my employer provides access resources,Yes,Yes,Yes,Yes
+Yes,My employer provides benefits,My employer provides access resources,Yes,Yes,Yes,No
+Yes,My employer provides benefits,I don't know if my employer provides access resources,No,No,Yes,No
+Yes,I don't know if my employer provides benefits,My employer does not provide access resources,Yes,Yes,Yes,Yes
+Yes,My employer does not provide benefits,My employer does not provide access resources,No,No,Yes,No
+Yes,I don't know if my employer provides benefits,My employer does not provide access resources,Yes,Yes,Yes,Possibly
+Yes,I don't know if my employer provides benefits,My employer does not provide access resources,Yes,No,Yes,Possibly
+Yes,My employer does not provide benefits,My employer does not provide access resources,Yes,No,Yes,Yes
+Yes,I don't know if my employer provides benefits,I don't know if my employer provides access resources,No,Yes,No,Yes
+Yes,My employer does not provide benefits,My employer does not provide access resources,Yes,Yes,Yes,Yes
+Yes,My employer provides benefits,My employer provides access resources,No,No,Yes,Possibly
+Yes,My employer provides benefits,I don't know if my employer provides access resources,No,No,Yes,Yes
+Yes,My employer provides benefits,My employer provides access resources,No,Yes,Yes,Yes
+Yes,I don't know if my employer provides benefits,I don't know if my employer provides access resources,No,No,Yes,No
+Yes,My employer provides benefits,My employer provides access resources,No,Yes,Yes,Possibly
+Yes,My employer provides benefits,I don't know if my employer provides access resources,No,Yes,Yes,Yes
+Yes,I don't know if my employer provides benefits,My employer does not provide access resources,No,No,Yes,No
+Yes,I don't know if my employer provides benefits,I don't know if my employer provides access resources,No,No,No,No
+Yes,My employer provides benefits,My employer provides access resources,No,Yes,Yes,Yes
+Yes,My employer provides benefits,My employer provides access resources,Yes,Yes,Yes,Yes
+Yes,I don't know if my employer provides benefits,My employer does not provide access resources,No,Yes,Yes,Yes
+Yes,My employer provides benefits,I don't know if my employer provides access resources,No,Yes,Yes,Yes
+Yes,My employer provides benefits,My employer provides access resources,No,Yes,Yes,No
+Yes,My employer provides benefits,My employer does not provide access resources,No,No,Yes,Yes
+Yes,My employer provides benefits,My employer provides access resources,No,No,Yes,Possibly
+Yes,My employer provides benefits,My employer provides access resources,Yes,Yes,Yes,Yes
+Yes,My employer provides benefits,My employer provides access resources,Yes,No,Yes,No
+Yes,My employer provides benefits,My employer provides access resources,Yes,Yes,Yes,No
+Yes,I don't know if my employer provides benefits,My employer does not provide access resources,No,Yes,No,Yes
+Yes,My employer provides benefits,My employer provides access resources,No,Yes,Yes,Yes
+Yes,My employer provides benefits,My employer does not provide access resources,No,No,Yes,Yes
+Yes,My employer provides benefits,I don't know if my employer provides access resources,No,Yes,Yes,No
+Yes,My employer does not provide benefits,My employer does not provide access resources,Yes,Yes,Yes,Yes
+Yes,My employer provides benefits,I don't know if my employer provides access resources,Yes,Yes,Yes,No
+Yes,My employer does not provide benefits,My employer does not provide access resources,Yes,Yes,Yes,Possibly
+Yes,My employer does not provide benefits,My employer does not provide access resources,Yes,Yes,Yes,No
+Yes,My employer provides benefits,My employer provides access resources,No,Yes,Yes,Yes
+Yes,I don't know if my employer provides benefits,My employer does not provide access resources,No,No,Yes,No
+Yes,My employer provides benefits,My employer does not provide access resources,No,Yes,Yes,Possibly
+Yes,My employer provides benefits,My employer provides access resources,Yes,No,Yes,Possibly
+Yes,My employer does not provide benefits,My employer does not provide access resources,Yes,No,Yes,No
+Yes,My employer provides benefits,My employer provides access resources,Yes,Yes,Yes,Yes
+Yes,I don't know if my employer provides benefits,My employer does not provide access resources,No,No,Yes,Don't Know
+Yes,My employer provides benefits,I don't know if my employer provides access resources,No,No,Yes,No
+Yes,My employer does not provide benefits,My employer does not provide access resources,No,No,Yes,No
+Yes,I don't know if my employer provides benefits,My employer does not provide access resources,No,Yes,Yes,Yes
+Yes,My employer provides benefits,I don't know if my employer provides access resources,No,Yes,Yes,Yes
+Yes,My employer provides benefits,My employer does not provide access resources,No,No,Yes,No
+Yes,My employer provides benefits,My employer does not provide access resources,Yes,Yes,Yes,Yes
+Yes,My employer provides benefits,I don't know if my employer provides access resources,No,No,Yes,No
+Yes,My employer does not provide benefits,I don't know if my employer provides access resources,Yes,Yes,Yes,Yes
+Yes,My employer does not provide benefits,My employer does not provide access resources,No,No,Yes,Don't Know
+Yes,I don't know if my employer provides benefits,My employer does not provide access resources,No,No,Yes,Yes
+Yes,My employer provides benefits,My employer does not provide access resources,No,No,Yes,Possibly
+Yes,My employer provides benefits,My employer provides access resources,Yes,Yes,Yes,No
+Yes,My employer does not provide benefits,My employer does not provide access resources,Yes,Yes,No,Yes
+Yes,My employer provides benefits,My employer provides access resources,No,No,Yes,Yes
+Yes,My employer provides benefits,My employer provides access resources,Yes,Yes,Yes,Yes
+Yes,My employer provides benefits,My employer does not provide access resources,No,No,Yes,Don't Know
+Yes,My employer provides benefits,My employer provides access resources,No,No,Yes,Yes
+Yes,My employer does not provide benefits,My employer does not provide access resources,No,No,Yes,Possibly
+Yes,I don't know if my employer provides benefits,My employer does not provide access resources,No,No,Yes,Don't Know
+Yes,I don't know if my employer provides benefits,My employer does not provide access resources,No,No,No,Possibly
+Yes,My employer provides benefits,I don't know if my employer provides access resources,No,No,Yes,No
+Yes,My employer provides benefits,I don't know if my employer provides access resources,Yes,Yes,Yes,Yes
+Yes,My employer does not provide benefits,My employer does not provide access resources,No,No,Yes,Yes
+Yes,My employer provides benefits,I don't know if my employer provides access resources,No,No,Yes,No
+Yes,My employer provides benefits,My employer does not provide access resources,Yes,Yes,Yes,No
+Yes,My employer provides benefits,My employer provides access resources,No,No,Yes,Don't Know
+Yes,My employer provides benefits,My employer does not provide access resources,No,Yes,Yes,Yes
+Yes,My employer does not provide benefits,My employer does not provide access resources,No,Yes,Yes,Yes
+Yes,My employer provides benefits,My employer does not provide access resources,Yes,Yes,Yes,No
+Yes,My employer provides benefits,My employer does not provide access resources,Yes,Yes,Yes,Don't Know
+Yes,My employer provides benefits,My employer provides access resources,Yes,Yes,Yes,Possibly
+Yes,My employer does not provide benefits,My employer does not provide access resources,No,No,No,Yes
+Yes,My employer provides benefits,My employer provides access resources,No,Yes,Yes,No
+Yes,My employer provides benefits,My employer provides access resources,No,No,Yes,Don't Know
+Yes,My employer provides benefits,My employer does not provide access resources,No,No,Yes,Possibly
+Yes,My employer provides benefits,My employer provides access resources,No,Yes,Yes,No
+Yes,I don't know if my employer provides benefits,I don't know if my employer provides access resources,No,No,Yes,Possibly
+Yes,I don't know if my employer provides benefits,I don't know if my employer provides access resources,No,Yes,No,No
+Yes,My employer provides benefits,My employer provides access resources,Yes,Yes,Yes,Yes
+Yes,My employer provides benefits,My employer provides access resources,Yes,Yes,Yes,Possibly
+Yes,My employer provides benefits,My employer provides access resources,Yes,Yes,Yes,Don't Know
+Yes,My employer does not provide benefits,My employer does not provide access resources,No,No,Yes,No
+Yes,My employer provides benefits,My employer provides access resources,Yes,No,Yes,Yes
+Yes,I don't know if my employer provides benefits,I don't know if my employer provides access resources,No,No,Yes,No
+Yes,My employer provides benefits,My employer does not provide access resources,No,No,Yes,Possibly
+Yes,I don't know if my employer provides benefits,My employer does not provide access resources,Yes,No,Yes,Possibly
+Yes,My employer provides benefits,My employer provides access resources,No,No,Yes,Yes
+Yes,I don't know if my employer provides benefits,My employer does not provide access resources,No,No,Yes,Possibly
+Yes,My employer provides benefits,I don't know if my employer provides access resources,Yes,No,Yes,No
+Yes,My employer provides benefits,My employer provides access resources,Yes,Yes,Yes,Yes
+Yes,I don't know if my employer provides benefits,I don't know if my employer provides access resources,No,No,Yes,No
+Yes,I don't know if my employer provides benefits,I don't know if my employer provides access resources,No,No,No,Possibly
+Yes,My employer provides benefits,My employer does not provide access resources,No,No,Yes,No
+Yes,I don't know if my employer provides benefits,I don't know if my employer provides access resources,Yes,No,Yes,Don't Know
+Yes,I don't know if my employer provides benefits,My employer does not provide access resources,No,No,Yes,Don't Know
+Yes,I don't know if my employer provides benefits,My employer does not provide access resources,Yes,Yes,Yes,Yes
+Yes,My employer provides benefits,My employer provides access resources,Yes,Yes,Yes,Yes
+Yes,My employer does not provide benefits,I don't know if my employer provides access resources,No,Yes,Yes,Yes
+Yes,My employer provides benefits,My employer provides access resources,Yes,No,Yes,Yes
+Yes,My employer does not provide benefits,My employer does not provide access resources,Yes,Yes,Yes,Yes
+Yes,My employer provides benefits,My employer provides access resources,No,No,Yes,Possibly
+Yes,My employer provides benefits,I don't know if my employer provides access resources,Yes,Yes,Yes,Yes
+Yes,My employer provides benefits,My employer provides access resources,Yes,No,Yes,Yes
+Yes,My employer provides benefits,My employer provides access resources,No,No,Yes,Yes
+Yes,My employer provides benefits,My employer provides access resources,Yes,Yes,Yes,Yes
+Yes,My employer provides benefits,My employer provides access resources,Yes,Yes,Yes,Yes
+Yes,My employer provides benefits,My employer provides access resources,Yes,Yes,Yes,Yes
+Yes,My employer provides benefits,My employer does not provide access resources,Yes,Yes,Yes,Yes
+Yes,My employer provides benefits,My employer provides access resources,No,No,Yes,Possibly
+Yes,My employer provides benefits,I don't know if my employer provides access resources,Yes,Yes,Yes,Yes
+Yes,My employer provides benefits,My employer does not provide access resources,No,No,Yes,Yes
+Yes,My employer provides benefits,My employer provides access resources,No,Yes,Yes,No
+Yes,My employer provides benefits,My employer does not provide access resources,No,No,Yes,Yes
+Yes,I don't know if my employer provides benefits,I don't know if my employer provides access resources,No,No,Yes,Possibly
+Yes,My employer provides benefits,My employer provides access resources,Yes,Yes,Yes,Yes
+Yes,My employer provides benefits,My employer does not provide access resources,No,No,Yes,Yes
+Yes,My employer provides benefits,My employer provides access resources,Yes,Yes,Yes,Yes
+Yes,My employer provides benefits,I don't know if my employer provides access resources,Yes,Yes,Yes,Yes
+Yes,My employer provides benefits,My employer does not provide access resources,Yes,Yes,Yes,Yes
+Yes,My employer provides benefits,My employer does not provide access resources,No,Yes,Yes,Yes
+Yes,My employer provides benefits,My employer provides access resources,No,Yes,Yes,Yes
+Yes,I don't know if my employer provides benefits,I don't know if my employer provides access resources,No,Yes,Yes,No
+Yes,My employer provides benefits,My employer provides access resources,No,Yes,Yes,No
+Yes,My employer provides benefits,I don't know if my employer provides access resources,No,Yes,Yes,Possibly
+Yes,My employer does not provide benefits,My employer does not provide access resources,No,No,No,No
+Yes,My employer provides benefits,My employer provides access resources,Yes,Yes,Yes,Yes
+Yes,My employer does not provide benefits,My employer does not provide access resources,Yes,Yes,Yes,Yes
+Yes,My employer provides benefits,My employer does not provide access resources,Yes,Yes,Yes,Yes
+Yes,My employer does not provide benefits,My employer provides access resources,No,No,No,No
+Yes,My employer provides benefits,My employer does not provide access resources,No,No,Yes,No
+Yes,My employer provides benefits,I don't know if my employer provides access resources,No,Yes,Yes,Possibly
+Yes,I don't know if my employer provides benefits,My employer does not provide access resources,No,No,Yes,Possibly
+Yes,I don't know if my employer provides benefits,I don't know if my employer provides access resources,No,No,Yes,Possibly
+Yes,I don't know if my employer provides benefits,I don't know if my employer provides access resources,No,No,Yes,Possibly
+Yes,My employer provides benefits,My employer provides access resources,No,No,Yes,No
+Yes,My employer provides benefits,My employer provides access resources,No,Yes,Yes,Yes
+Yes,My employer provides benefits,My employer provides access resources,No,No,Yes,Possibly
+Yes,My employer does not provide benefits,My employer does not provide access resources,No,No,Yes,Possibly
+Yes,My employer provides benefits,My employer provides access resources,No,No,Yes,Yes
+Yes,My employer provides benefits,My employer does not provide access resources,Yes,Yes,Yes,Yes
+Yes,My employer provides benefits,My employer provides access resources,No,No,Yes,No
+Yes,I don't know if my employer provides benefits,My employer provides access resources,No,No,No,Yes
+Yes,I don't know if my employer provides benefits,My employer does not provide access resources,No,No,Yes,Possibly
+Yes,My employer provides benefits,I don't know if my employer provides access resources,No,Yes,Yes,Yes
+Yes,My employer provides benefits,My employer provides access resources,No,No,Yes,No
+Yes,My employer provides benefits,My employer does not provide access resources,No,No,Yes,No
+Yes,My employer does not provide benefits,My employer does not provide access resources,No,Yes,Yes,No
+Yes,I don't know if my employer provides benefits,I don't know if my employer provides access resources,No,No,Yes,Don't Know
+Yes,My employer provides benefits,I don't know if my employer provides access resources,Yes,Yes,Yes,Yes
+Yes,My employer provides benefits,My employer provides access resources,Yes,Yes,Yes,Yes
+Yes,I don't know if my employer provides benefits,I don't know if my employer provides access resources,No,No,Yes,Possibly
+Yes,My employer provides benefits,My employer provides access resources,Yes,Yes,Yes,Yes
+Yes,My employer does not provide benefits,My employer does not provide access resources,Yes,No,Yes,Yes
+Yes,My employer provides benefits,My employer provides access resources,No,No,Yes,Don't Know
+Yes,My employer provides benefits,My employer provides access resources,Yes,Yes,Yes,Possibly
+Yes,My employer provides benefits,My employer provides access resources,No,No,Yes,Yes
+Yes,My employer provides benefits,My employer provides access resources,Yes,Yes,Yes,Don't Know
+Yes,My employer provides benefits,My employer does not provide access resources,No,No,Yes,No
+Yes,My employer provides benefits,I don't know if my employer provides access resources,No,No,Yes,Possibly
+Yes,My employer provides benefits,My employer does not provide access resources,Yes,Yes,Yes,Possibly
+Yes,I don't know if my employer provides benefits,My employer does not provide access resources,Yes,No,No,No
+Yes,My employer provides benefits,I don't know if my employer provides access resources,No,Yes,Yes,Yes
+Yes,My employer provides benefits,My employer provides access resources,No,No,Yes,Possibly
+Yes,My employer provides benefits,My employer does not provide access resources,No,Yes,Yes,Yes
+Yes,My employer provides benefits,I don't know if my employer provides access resources,Yes,Yes,Yes,No
+Yes,My employer provides benefits,My employer provides access resources,Yes,Yes,Yes,No
+Yes,My employer provides benefits,My employer provides access resources,Yes,Yes,Yes,Yes
+Yes,My employer provides benefits,My employer provides access resources,No,No,Yes,Don't Know
+Yes,I don't know if my employer provides benefits,My employer does not provide access resources,No,No,No,Yes
+Yes,My employer provides benefits,My employer does not provide access resources,No,Yes,Yes,Yes
+Yes,I don't know if my employer provides benefits,I don't know if my employer provides access resources,No,No,No,No
+Yes,I don't know if my employer provides benefits,I don't know if my employer provides access resources,No,Yes,Yes,Possibly
+Yes,My employer provides benefits,My employer does not provide access resources,Yes,Yes,Yes,Yes
+Yes,I don't know if my employer provides benefits,My employer does not provide access resources,No,No,Yes,No
+Yes,I don't know if my employer provides benefits,My employer does not provide access resources,No,No,No,Possibly
+Yes,My employer provides benefits,My employer provides access resources,Yes,Yes,Yes,Yes
+Yes,My employer does not provide benefits,My employer does not provide access resources,No,No,Yes,No
+Yes,My employer provides benefits,My employer provides access resources,Yes,Yes,Yes,Yes
+Yes,My employer does not provide benefits,My employer does not provide access resources,No,No,Yes,No
+Yes,I don't know if my employer provides benefits,I don't know if my employer provides access resources,No,No,Yes,No
+Yes,My employer provides benefits,My employer provides access resources,No,No,Yes,Yes
+Yes,My employer provides benefits,My employer provides access resources,No,Yes,Yes,Yes
+Yes,I don't know if my employer provides benefits,My employer does not provide access resources,Yes,No,Yes,No
+Yes,My employer provides benefits,I don't know if my employer provides access resources,Yes,Yes,Yes,Yes
+Yes,My employer provides benefits,My employer does not provide access resources,Yes,No,Yes,Yes
+Yes,My employer provides benefits,My employer provides access resources,Yes,Yes,Yes,Yes
+Yes,My employer provides benefits,My employer does not provide access resources,No,No,Yes,Yes
+Yes,My employer provides benefits,My employer provides access resources,No,No,Yes,No
+Yes,My employer provides benefits,My employer does not provide access resources,No,No,Yes,Yes
+Yes,My employer provides benefits,My employer provides access resources,Yes,Yes,Yes,Yes
+Yes,My employer provides benefits,My employer does not provide access resources,No,No,Yes,No
+Yes,My employer provides benefits,I don't know if my employer provides access resources,Yes,Yes,Yes,Yes
+Yes,My employer provides benefits,My employer does not provide access resources,No,No,Yes,No
+Yes,My employer provides benefits,My employer does not provide access resources,No,No,Yes,Yes
+Yes,My employer does not provide benefits,My employer does not provide access resources,Yes,Yes,Yes,No
+Yes,My employer provides benefits,My employer provides access resources,No,Yes,Yes,Yes
+Yes,My employer does not provide benefits,My employer does not provide access resources,No,No,Yes,Yes
+Yes,I don't know if my employer provides benefits,I don't know if my employer provides access resources,No,No,Yes,No
+Yes,I don't know if my employer provides benefits,My employer does not provide access resources,No,No,Yes,Yes
+Yes,I don't know if my employer provides benefits,My employer does not provide access resources,Yes,Yes,Yes,Yes
+Yes,My employer provides benefits,My employer does not provide access resources,No,No,Yes,No
+Yes,I don't know if my employer provides benefits,I don't know if my employer provides access resources,No,Yes,Yes,No
+Yes,My employer provides benefits,My employer provides access resources,No,No,Yes,No
+Yes,I don't know if my employer provides benefits,I don't know if my employer provides access resources,No,No,Yes,No
+Yes,My employer provides benefits,I don't know if my employer provides access resources,No,No,Yes,No
+Yes,My employer provides benefits,My employer does not provide access resources,No,Yes,Yes,No
+Yes,My employer does not provide benefits,My employer does not provide access resources,No,No,Yes,Possibly
+Yes,My employer provides benefits,My employer does not provide access resources,No,No,Yes,Yes
+Yes,My employer provides benefits,My employer does not provide access resources,No,Yes,Yes,Yes
+Yes,My employer provides benefits,My employer does not provide access resources,No,No,Yes,No
+Yes,My employer does not provide benefits,My employer does not provide access resources,No,No,Yes,Possibly
+Yes,My employer provides benefits,I don't know if my employer provides access resources,No,Yes,Yes,No
+Yes,My employer does not provide benefits,My employer does not provide access resources,Yes,No,Yes,Possibly
+Yes,My employer provides benefits,My employer does not provide access resources,No,No,Yes,Possibly
+Yes,I don't know if my employer provides benefits,My employer does not provide access resources,No,No,No,Possibly
+Yes,I don't know if my employer provides benefits,My employer provides access resources,No,No,Yes,No
+Yes,My employer does not provide benefits,My employer does not provide access resources,No,No,No,No
+Yes,I don't know if my employer provides benefits,My employer provides access resources,No,Yes,Yes,Possibly
+Yes,I don't know if my employer provides benefits,I don't know if my employer provides access resources,No,No,Yes,No
+Yes,My employer provides benefits,I don't know if my employer provides access resources,No,Yes,Yes,No
+Yes,My employer provides benefits,I don't know if my employer provides access resources,No,No,Yes,No
+Yes,My employer does not provide benefits,I don't know if my employer provides access resources,Yes,No,No,No
+Yes,I don't know if my employer provides benefits,I don't know if my employer provides access resources,No,No,Yes,No
+Yes,My employer provides benefits,My employer provides access resources,No,No,Yes,No
+Yes,My employer provides benefits,My employer provides access resources,No,No,Yes,Possibly
+Yes,I don't know if my employer provides benefits,I don't know if my employer provides access resources,No,No,Yes,No
+Yes,I don't know if my employer provides benefits,I don't know if my employer provides access resources,No,No,Yes,No
+Yes,My employer provides benefits,My employer provides access resources,No,Yes,Yes,Yes
+Yes,I don't know if my employer provides benefits,I don't know if my employer provides access resources,No,No,No,Don't Know
+Yes,I don't know if my employer provides benefits,My employer does not provide access resources,No,No,Yes,No
+Yes,My employer does not provide benefits,My employer does not provide access resources,Yes,No,No,Yes
+Yes,My employer provides benefits,My employer does not provide access resources,No,No,Yes,Yes
+Yes,I don't know if my employer provides benefits,I don't know if my employer provides access resources,No,No,Yes,Don't Know
+Yes,My employer provides benefits,My employer provides access resources,Yes,Yes,Yes,No
+Yes,My employer provides benefits,My employer provides access resources,Yes,Yes,Yes,Possibly
+Yes,My employer provides benefits,My employer does not provide access resources,No,Yes,Yes,Yes
+Yes,I don't know if my employer provides benefits,My employer does not provide access resources,No,No,Yes,Don't Know
+Yes,My employer provides benefits,My employer does not provide access resources,No,Yes,Yes,Possibly
+Yes,My employer does not provide benefits,My employer does not provide access resources,No,No,Yes,Yes
+Yes,I don't know if my employer provides benefits,I don't know if my employer provides access resources,No,No,No,No
+Yes,My employer provides benefits,I don't know if my employer provides access resources,No,No,Yes,No
+Yes,I don't know if my employer provides benefits,I don't know if my employer provides access resources,No,No,Yes,No
+Yes,I don't know if my employer provides benefits,I don't know if my employer provides access resources,No,No,Yes,No
+Yes,My employer does not provide benefits,I don't know if my employer provides access resources,No,Yes,Yes,No
+Yes,My employer provides benefits,My employer provides access resources,Yes,No,Yes,No
+Yes,My employer does not provide benefits,I don't know if my employer provides access resources,Yes,Yes,Yes,Possibly
+Yes,My employer provides benefits,My employer provides access resources,No,No,Yes,No
+Yes,My employer does not provide benefits,I don't know if my employer provides access resources,No,No,Yes,Possibly
+Yes,I don't know if my employer provides benefits,I don't know if my employer provides access resources,No,No,Yes,No
+Yes,My employer provides benefits,I don't know if my employer provides access resources,Yes,Yes,Yes,Yes
+Yes,My employer provides benefits,My employer does not provide access resources,Yes,Yes,Yes,Yes
+Yes,I don't know if my employer provides benefits,I don't know if my employer provides access resources,No,No,No,Yes
+Yes,My employer provides benefits,My employer provides access resources,No,Yes,Yes,Yes
+Yes,I don't know if my employer provides benefits,My employer does not provide access resources,Yes,Yes,Yes,Yes
+Yes,My employer provides benefits,My employer does not provide access resources,Yes,Yes,Yes,Yes
+Yes,My employer provides benefits,My employer provides access resources,No,No,Yes,No
+Yes,My employer provides benefits,I don't know if my employer provides access resources,No,No,Yes,Possibly
+Yes,I don't know if my employer provides benefits,I don't know if my employer provides access resources,No,Yes,Yes,Possibly
+Yes,My employer provides benefits,My employer does not provide access resources,Yes,Yes,Yes,Possibly
+Yes,I don't know if my employer provides benefits,I don't know if my employer provides access resources,No,No,Yes,No
+Yes,My employer provides benefits,My employer does not provide access resources,No,No,Yes,Don't Know
+Yes,I don't know if my employer provides benefits,I don't know if my employer provides access resources,No,No,Yes,No
+Yes,I don't know if my employer provides benefits,I don't know if my employer provides access resources,No,No,Yes,No
+Yes,My employer provides benefits,My employer provides access resources,No,No,Yes,Possibly
+Yes,My employer provides benefits,My employer does not provide access resources,No,No,Yes,Yes
+Yes,My employer provides benefits,I don't know if my employer provides access resources,No,Yes,Yes,No
+Yes,My employer provides benefits,My employer does not provide access resources,Yes,Yes,Yes,Yes
+Yes,My employer provides benefits,My employer provides access resources,No,Yes,Yes,Yes
+Yes,My employer provides benefits,My employer provides access resources,No,No,Yes,No
+Yes,My employer provides benefits,My employer provides access resources,No,Yes,Yes,Yes
+Yes,My employer provides benefits,I don't know if my employer provides access resources,No,Yes,Yes,No
+Yes,I don't know if my employer provides benefits,I don't know if my employer provides access resources,No,No,No,Don't Know
+Yes,My employer provides benefits,I don't know if my employer provides access resources,Yes,Yes,Yes,Yes
+Yes,My employer provides benefits,My employer provides access resources,No,No,Yes,No
+Yes,My employer provides benefits,My employer provides access resources,No,No,Yes,No
+Yes,My employer provides benefits,My employer does not provide access resources,Yes,No,Yes,Yes
+Yes,I don't know if my employer provides benefits,I don't know if my employer provides access resources,No,Yes,Yes,No
+Yes,My employer provides benefits,My employer does not provide access resources,Yes,Yes,Yes,Yes
+Yes,My employer provides benefits,My employer does not provide access resources,Yes,No,Yes,Possibly
+Yes,My employer provides benefits,I don't know if my employer provides access resources,No,No,Yes,Yes
+Yes,My employer provides benefits,My employer provides access resources,Yes,Yes,Yes,Yes
+Yes,My employer provides benefits,I don't know if my employer provides access resources,No,No,Yes,No
+Yes,My employer provides benefits,My employer does not provide access resources,No,No,Yes,Yes
+Yes,My employer provides benefits,My employer provides access resources,Yes,Yes,Yes,Yes
+Yes,My employer provides benefits,I don't know if my employer provides access resources,No,No,Yes,Yes
+Yes,My employer provides benefits,I don't know if my employer provides access resources,No,Yes,Yes,Yes
+Yes,My employer provides benefits,My employer provides access resources,No,No,Yes,Yes
+Yes,My employer provides benefits,My employer does not provide access resources,No,No,Yes,Possibly
+Yes,My employer does not provide benefits,My employer does not provide access resources,No,No,Yes,No
+Yes,I don't know if my employer provides benefits,I don't know if my employer provides access resources,Yes,No,Yes,Yes
+Yes,My employer provides benefits,I don't know if my employer provides access resources,No,No,Yes,Possibly
+Yes,My employer provides benefits,My employer provides access resources,Yes,Yes,Yes,Possibly
+Yes,My employer does not provide benefits,My employer does not provide access resources,No,No,No,Yes
+Yes,My employer provides benefits,I don't know if my employer provides access resources,No,Yes,Yes,No
+Yes,I don't know if my employer provides benefits,My employer does not provide access resources,No,No,Yes,Yes
+Yes,My employer provides benefits,My employer provides access resources,Yes,Yes,Yes,Yes
+Yes,I don't know if my employer provides benefits,My employer does not provide access resources,Yes,No,Yes,No
+Yes,My employer provides benefits,My employer provides access resources,No,Yes,Yes,No
+Yes,My employer provides benefits,I don't know if my employer provides access resources,Yes,Yes,Yes,Yes
+Yes,I don't know if my employer provides benefits,My employer does not provide access resources,No,No,Yes,Yes
+Yes,I don't know if my employer provides benefits,I don't know if my employer provides access resources,No,Yes,No,No
+Yes,My employer provides benefits,My employer does not provide access resources,No,No,Yes,No
+Yes,My employer provides benefits,My employer provides access resources,Yes,Yes,Yes,No
+Yes,I don't know if my employer provides benefits,I don't know if my employer provides access resources,Yes,No,No,No
+Yes,My employer provides benefits,My employer provides access resources,Yes,Yes,Yes,Yes
+Yes,My employer provides benefits,My employer does not provide access resources,No,No,Yes,Possibly
+Yes,I don't know if my employer provides benefits,My employer does not provide access resources,No,No,Yes,Yes
+Yes,My employer provides benefits,I don't know if my employer provides access resources,No,No,Yes,No
+Yes,My employer provides benefits,My employer does not provide access resources,Yes,No,Yes,Yes
+Yes,I don't know if my employer provides benefits,My employer does not provide access resources,Yes,No,Yes,Possibly
+Yes,I don't know if my employer provides benefits,My employer does not provide access resources,No,No,Yes,Yes
+Yes,My employer provides benefits,My employer does not provide access resources,No,No,Yes,No
+Yes,My employer provides benefits,My employer provides access resources,Yes,Yes,Yes,Yes
+Yes,My employer provides benefits,My employer provides access resources,No,No,Yes,No
+Yes,My employer provides benefits,My employer provides access resources,No,Yes,Yes,Yes
+Yes,My employer provides benefits,My employer provides access resources,Yes,Yes,Yes,Yes
+Yes,I don't know if my employer provides benefits,My employer does not provide access resources,No,Yes,Yes,Don't Know
+Yes,My employer provides benefits,My employer provides access resources,No,No,Yes,Yes
+Yes,I don't know if my employer provides benefits,My employer does not provide access resources,Yes,Yes,No,Possibly
+Yes,My employer provides benefits,My employer provides access resources,Yes,Yes,Yes,No
+Yes,My employer provides benefits,My employer provides access resources,Yes,Yes,Yes,Yes
+Yes,My employer provides benefits,My employer provides access resources,No,No,Yes,No
+Yes,My employer does not provide benefits,My employer does not provide access resources,No,No,Yes,Yes
+Yes,My employer provides benefits,I don't know if my employer provides access resources,No,No,Yes,No
+Yes,My employer does not provide benefits,My employer does not provide access resources,No,No,Yes,No
+Yes,I don't know if my employer provides benefits,My employer does not provide access resources,No,No,Yes,Yes
+Yes,My employer does not provide benefits,I don't know if my employer provides access resources,Yes,Yes,No,Yes
+Yes,My employer provides benefits,My employer provides access resources,No,No,Yes,No
+Yes,My employer provides benefits,I don't know if my employer provides access resources,No,No,Yes,Possibly
+Yes,I don't know if my employer provides benefits,I don't know if my employer provides access resources,No,No,No,Yes
+Yes,My employer provides benefits,I don't know if my employer provides access resources,No,Yes,Yes,No
+Yes,My employer provides benefits,My employer provides access resources,No,Yes,Yes,Yes
+Yes,I don't know if my employer provides benefits,My employer does not provide access resources,No,No,Yes,Yes
+Yes,My employer provides benefits,My employer provides access resources,No,Yes,Yes,Possibly
+Yes,My employer provides benefits,My employer provides access resources,No,Yes,Yes,No
+Yes,My employer provides benefits,My employer does not provide access resources,Yes,Yes,Yes,Yes
+Yes,My employer provides benefits,I don't know if my employer provides access resources,No,No,Yes,Don't Know
+Yes,My employer provides benefits,My employer provides access resources,Yes,Yes,Yes,Yes
+Yes,My employer provides benefits,I don't know if my employer provides access resources,No,Yes,Yes,Possibly
+Yes,My employer does not provide benefits,My employer does not provide access resources,No,No,Yes,Yes
+Yes,I don't know if my employer provides benefits,I don't know if my employer provides access resources,No,Yes,Yes,No
+Yes,My employer provides benefits,My employer does not provide access resources,No,No,Yes,No
+Yes,My employer provides benefits,My employer provides access resources,No,Yes,Yes,Yes
+Yes,My employer provides benefits,I don't know if my employer provides access resources,No,No,Yes,No
+Yes,My employer provides benefits,My employer provides access resources,Yes,Yes,Yes,Yes
+Yes,I don't know if my employer provides benefits,My employer does not provide access resources,No,No,Yes,No
+Yes,My employer provides benefits,My employer provides access resources,Yes,Yes,Yes,Yes
+Yes,My employer provides benefits,My employer provides access resources,No,Yes,Yes,Yes
+Yes,My employer provides benefits,My employer provides access resources,Yes,Yes,Yes,Yes
+Yes,My employer provides benefits,My employer provides access resources,Yes,Yes,Yes,Yes
+Yes,My employer provides benefits,My employer provides access resources,Yes,Yes,Yes,Possibly
+Yes,My employer provides benefits,I don't know if my employer provides access resources,No,Yes,Yes,Possibly
+Yes,My employer provides benefits,I don't know if my employer provides access resources,No,Yes,Yes,Yes
+Yes,My employer provides benefits,My employer does not provide access resources,Yes,No,Yes,Yes
+Yes,My employer does not provide benefits,My employer provides access resources,Yes,Yes,No,Possibly
+Yes,My employer does not provide benefits,My employer provides access resources,Yes,No,Yes,Possibly
+Yes,My employer provides benefits,My employer provides access resources,Yes,Yes,Yes,Yes
+Yes,My employer does not provide benefits,My employer does not provide access resources,No,No,Yes,No
+Yes,My employer provides benefits,My employer provides access resources,No,No,Yes,No
+Yes,My employer provides benefits,My employer provides access resources,No,No,Yes,Possibly
+Yes,My employer provides benefits,My employer does not provide access resources,Yes,Yes,Yes,Yes
+Yes,My employer does not provide benefits,My employer does not provide access resources,No,Yes,No,Possibly
+Yes,My employer provides benefits,My employer does not provide access resources,Yes,No,Yes,Don't Know
+Yes,My employer provides benefits,My employer does not provide access resources,No,No,Yes,Don't Know
+Yes,My employer provides benefits,I don't know if my employer provides access resources,No,No,Yes,No
+Yes,My employer provides benefits,My employer provides access resources,No,No,Yes,Don't Know
+Yes,I don't know if my employer provides benefits,I don't know if my employer provides access resources,No,No,Yes,Don't Know
+Yes,I don't know if my employer provides benefits,My employer provides access resources,No,Yes,Yes,Possibly
+Yes,My employer provides benefits,I don't know if my employer provides access resources,Yes,Yes,Yes,Yes
+Yes,My employer provides benefits,I don't know if my employer provides access resources,No,No,Yes,No
+Yes,My employer provides benefits,I don't know if my employer provides access resources,No,Yes,Yes,No
+Yes,My employer provides benefits,My employer provides access resources,No,No,Yes,Yes
+Yes,I don't know if my employer provides benefits,I don't know if my employer provides access resources,No,Yes,Yes,No
+Yes,My employer provides benefits,I don't know if my employer provides access resources,No,No,Yes,Yes
+Yes,I don't know if my employer provides benefits,My employer provides access resources,No,Yes,Yes,Possibly
+Yes,My employer provides benefits,I don't know if my employer provides access resources,Yes,Yes,Yes,Yes
+Yes,I don't know if my employer provides benefits,My employer provides access resources,No,No,No,Yes
+Yes,My employer provides benefits,My employer provides access resources,Yes,No,Yes,No
+Yes,I don't know if my employer provides benefits,I don't know if my employer provides access resources,No,No,Yes,No
+Yes,My employer provides benefits,My employer provides access resources,Yes,Yes,Yes,Yes
+Yes,My employer provides benefits,My employer provides access resources,Yes,Yes,Yes,Yes
+Yes,My employer provides benefits,I don't know if my employer provides access resources,No,No,Yes,No
+Yes,My employer provides benefits,My employer provides access resources,No,No,Yes,No
+Yes,My employer provides benefits,I don't know if my employer provides access resources,Yes,No,Yes,Yes
+Yes,My employer provides benefits,My employer provides access resources,Yes,Yes,Yes,Yes
+Yes,My employer provides benefits,My employer does not provide access resources,No,Yes,Yes,Possibly
+Yes,My employer does not provide benefits,My employer provides access resources,Yes,Yes,Yes,Yes
+Yes,I don't know if my employer provides benefits,I don't know if my employer provides access resources,No,No,Yes,Yes
+Yes,I don't know if my employer provides benefits,My employer does not provide access resources,No,Yes,No,Possibly
+Yes,I don't know if my employer provides benefits,My employer provides access resources,No,No,No,No
+Yes,My employer does not provide benefits,My employer does not provide access resources,No,No,Yes,Possibly
+Yes,I don't know if my employer provides benefits,I don't know if my employer provides access resources,Yes,Yes,Yes,Possibly
+Yes,My employer provides benefits,My employer does not provide access resources,No,No,Yes,Don't Know
+Yes,My employer provides benefits,My employer provides access resources,No,No,Yes,Yes
+Yes,My employer provides benefits,My employer does not provide access resources,No,No,Yes,No
+Yes,My employer provides benefits,My employer provides access resources,Yes,Yes,Yes,Yes
+Yes,I don't know if my employer provides benefits,My employer provides access resources,No,Yes,Yes,Yes
+Yes,My employer provides benefits,My employer does not provide access resources,No,No,Yes,Yes
+Yes,I don't know if my employer provides benefits,I don't know if my employer provides access resources,No,No,Yes,No
+Yes,My employer provides benefits,My employer provides access resources,No,No,Yes,No
+Yes,My employer provides benefits,My employer does not provide access resources,Yes,Yes,Yes,Yes
+Yes,My employer does not provide benefits,My employer does not provide access resources,No,No,Yes,Yes
+Yes,My employer does not provide benefits,My employer does not provide access resources,Yes,No,No,Possibly
+Yes,My employer provides benefits,My employer does not provide access resources,Yes,No,Yes,Yes
+Yes,My employer does not provide benefits,My employer does not provide access resources,Yes,Yes,Yes,No
+Yes,My employer provides benefits,I don't know if my employer provides access resources,No,No,Yes,Yes
+Yes,My employer provides benefits,My employer does not provide access resources,Yes,No,Yes,Possibly
+Yes,I don't know if my employer provides benefits,My employer does not provide access resources,Yes,Yes,No,Yes
+Yes,I don't know if my employer provides benefits,I don't know if my employer provides access resources,No,No,Yes,No
+Yes,I don't know if my employer provides benefits,I don't know if my employer provides access resources,No,No,Yes,No
+Yes,My employer provides benefits,I don't know if my employer provides access resources,No,No,Yes,Possibly
+Yes,I don't know if my employer provides benefits,My employer does not provide access resources,Yes,No,Yes,No
+Yes,My employer provides benefits,My employer provides access resources,Yes,Yes,Yes,Possibly
+Yes,My employer does not provide benefits,My employer does not provide access resources,Yes,Yes,Yes,Possibly
+Yes,My employer provides benefits,My employer provides access resources,Yes,Yes,Yes,Yes
+Yes,My employer provides benefits,My employer does not provide access resources,No,No,Yes,Possibly
+Yes,My employer provides benefits,My employer provides access resources,Yes,Yes,Yes,Yes
+Yes,My employer provides benefits,My employer provides access resources,No,No,Yes,No
+Yes,My employer provides benefits,My employer provides access resources,Yes,Yes,Yes,Yes
+Yes,My employer provides benefits,My employer does not provide access resources,Yes,Yes,Yes,Yes
+Yes,My employer provides benefits,My employer does not provide access resources,No,Yes,Yes,Yes
+Yes,My employer provides benefits,My employer does not provide access resources,No,No,Yes,Yes
+Yes,My employer provides benefits,I don't know if my employer provides access resources,No,Yes,Yes,No
+Yes,My employer provides benefits,My employer provides access resources,Yes,Yes,Yes,Yes
+Yes,My employer provides benefits,I don't know if my employer provides access resources,No,No,Yes,Yes
+Yes,My employer provides benefits,My employer does not provide access resources,Yes,Yes,Yes,Yes
+Yes,I don't know if my employer provides benefits,My employer does not provide access resources,No,No,No,Don't Know
+Yes,My employer provides benefits,I don't know if my employer provides access resources,No,No,Yes,Don't Know
+Yes,My employer provides benefits,My employer provides access resources,Yes,Yes,Yes,Yes
+Yes,My employer provides benefits,I don't know if my employer provides access resources,No,No,Yes,Don't Know
+Yes,My employer does not provide benefits,My employer does not provide access resources,No,Yes,No,Yes
+Yes,I don't know if my employer provides benefits,I don't know if my employer provides access resources,No,No,Yes,Don't Know
+Yes,My employer provides benefits,My employer does not provide access resources,Yes,Yes,Yes,Yes
+Yes,I don't know if my employer provides benefits,My employer does not provide access resources,No,No,No,Yes
+Yes,My employer provides benefits,I don't know if my employer provides access resources,Yes,Yes,Yes,No
+Yes,I don't know if my employer provides benefits,My employer does not provide access resources,No,No,Yes,No
+Yes,My employer provides benefits,My employer provides access resources,No,Yes,Yes,Possibly
+Yes,My employer provides benefits,My employer provides access resources,Yes,Yes,Yes,Yes
+Yes,I don't know if my employer provides benefits,My employer does not provide access resources,No,No,No,No
+Yes,My employer provides benefits,My employer provides access resources,No,Yes,Yes,Yes
+Yes,I don't know if my employer provides benefits,My employer does not provide access resources,Yes,No,Yes,Possibly
+Yes,My employer provides benefits,My employer provides access resources,No,No,Yes,Yes
+Yes,My employer provides benefits,My employer does not provide access resources,Yes,Yes,Yes,Possibly
+Yes,My employer provides benefits,My employer provides access resources,No,No,Yes,Yes
+Yes,My employer provides benefits,My employer provides access resources,Yes,Yes,Yes,Yes
+Yes,I don't know if my employer provides benefits,My employer provides access resources,No,No,Yes,No
+Yes,My employer provides benefits,I don't know if my employer provides access resources,No,No,Yes,No
+Yes,My employer provides benefits,My employer does not provide access resources,Yes,No,Yes,Yes
+Yes,My employer does not provide benefits,My employer does not provide access resources,No,No,Yes,Possibly
+Yes,I don't know if my employer provides benefits,I don't know if my employer provides access resources,No,Yes,Yes,Possibly
+Yes,My employer does not provide benefits,My employer does not provide access resources,No,Yes,Yes,Possibly
+Yes,My employer provides benefits,My employer provides access resources,Yes,Yes,Yes,Yes
+Yes,My employer provides benefits,My employer does not provide access resources,No,No,Yes,No
+Yes,I don't know if my employer provides benefits,My employer does not provide access resources,No,No,Yes,Possibly
+Yes,My employer provides benefits,My employer does not provide access resources,No,Yes,Yes,Possibly
+Yes,My employer does not provide benefits,My employer does not provide access resources,Yes,Yes,Yes,Yes
+Yes,My employer provides benefits,I don't know if my employer provides access resources,No,No,Yes,No
+Yes,My employer provides benefits,I don't know if my employer provides access resources,No,Yes,Yes,Possibly
+Yes,My employer does not provide benefits,My employer does not provide access resources,Yes,Yes,No,Yes
+Yes,My employer provides benefits,I don't know if my employer provides access resources,No,No,Yes,Yes
+Yes,My employer does not provide benefits,My employer does not provide access resources,No,No,Yes,Possibly
+Yes,My employer provides benefits,I don't know if my employer provides access resources,No,No,Yes,Yes
+Yes,My employer provides benefits,I don't know if my employer provides access resources,No,No,Yes,Yes
+Yes,My employer provides benefits,My employer does not provide access resources,Yes,Yes,Yes,Yes
+Yes,My employer provides benefits,My employer provides access resources,Yes,Yes,Yes,Yes
+Yes,My employer provides benefits,My employer provides access resources,Yes,Yes,Yes,Possibly
+Yes,My employer provides benefits,I don't know if my employer provides access resources,Yes,Yes,Yes,Yes
+Yes,My employer provides benefits,My employer does not provide access resources,Yes,Yes,Yes,Yes
+Yes,My employer provides benefits,I don't know if my employer provides access resources,Yes,No,Yes,Yes
+Yes,My employer does not provide benefits,My employer does not provide access resources,Yes,Yes,Yes,Yes
+Yes,I don't know if my employer provides benefits,I don't know if my employer provides access resources,No,No,Yes,No
+Yes,I don't know if my employer provides benefits,My employer does not provide access resources,No,No,Yes,No
+Yes,My employer provides benefits,My employer does not provide access resources,Yes,Yes,Yes,Yes
+Yes,I don't know if my employer provides benefits,My employer does not provide access resources,No,No,Yes,No
+Yes,I don't know if my employer provides benefits,My employer does not provide access resources,No,No,No,No
+Yes,My employer provides benefits,I don't know if my employer provides access resources,Yes,No,Yes,Possibly
+Yes,My employer provides benefits,My employer does not provide access resources,No,Yes,Yes,Possibly
+Yes,My employer provides benefits,I don't know if my employer provides access resources,No,No,Yes,Yes
+Yes,I don't know if my employer provides benefits,I don't know if my employer provides access resources,No,No,No,Yes
+Yes,My employer provides benefits,I don't know if my employer provides access resources,Yes,No,Yes,No
+Yes,I don't know if my employer provides benefits,My employer does not provide access resources,Yes,Yes,Yes,No
+Yes,My employer provides benefits,My employer provides access resources,No,Yes,Yes,Yes
+Yes,My employer provides benefits,My employer provides access resources,Yes,Yes,Yes,Yes
+Yes,My employer provides benefits,My employer provides access resources,Yes,Yes,Yes,Possibly
+Yes,I don't know if my employer provides benefits,I don't know if my employer provides access resources,No,No,Yes,No
+Yes,My employer provides benefits,My employer does not provide access resources,No,No,Yes,Yes
+Yes,My employer provides benefits,I don't know if my employer provides access resources,No,No,Yes,Don't Know
+Yes,My employer provides benefits,My employer provides access resources,Yes,Yes,Yes,Yes
+Yes,My employer does not provide benefits,My employer does not provide access resources,No,No,Yes,Yes
+Yes,I don't know if my employer provides benefits,I don't know if my employer provides access resources,No,No,Yes,Yes
+Yes,My employer provides benefits,My employer does not provide access resources,Yes,Yes,Yes,Yes
+Yes,My employer does not provide benefits,My employer does not provide access resources,No,No,Yes,No
+Yes,I don't know if my employer provides benefits,My employer does not provide access resources,No,No,Yes,Don't Know
+Yes,My employer provides benefits,My employer provides access resources,No,No,Yes,Yes
+Yes,My employer provides benefits,My employer provides access resources,Yes,Yes,Yes,Yes
+Yes,My employer provides benefits,My employer provides access resources,Yes,Yes,Yes,Possibly
+Yes,I don't know if my employer provides benefits,My employer does not provide access resources,No,No,Yes,No
+Yes,My employer provides benefits,I don't know if my employer provides access resources,No,No,Yes,Possibly
+Yes,I don't know if my employer provides benefits,My employer does not provide access resources,No,Yes,Yes,Yes
+Yes,My employer provides benefits,My employer does not provide access resources,Yes,Yes,Yes,Yes
+Yes,My employer provides benefits,My employer provides access resources,No,No,Yes,No
+Yes,I don't know if my employer provides benefits,I don't know if my employer provides access resources,Yes,No,No,Possibly
+Yes,My employer provides benefits,My employer provides access resources,No,No,Yes,No
+Yes,My employer provides benefits,My employer does not provide access resources,Yes,Yes,Yes,Yes
+Yes,I don't know if my employer provides benefits,My employer does not provide access resources,No,No,No,No
+Yes,My employer provides benefits,My employer provides access resources,Yes,Yes,Yes,Possibly
+Yes,I don't know if my employer provides benefits,My employer provides access resources,No,Yes,Yes,Don't Know
+Yes,My employer provides benefits,My employer provides access resources,No,Yes,Yes,Possibly
+Yes,I don't know if my employer provides benefits,I don't know if my employer provides access resources,No,Yes,Yes,No
+Yes,I don't know if my employer provides benefits,My employer provides access resources,No,No,Yes,No
+Yes,I don't know if my employer provides benefits,I don't know if my employer provides access resources,No,No,Yes,No
+Yes,My employer provides benefits,I don't know if my employer provides access resources,No,Yes,Yes,Yes
+Yes,My employer provides benefits,My employer provides access resources,No,Yes,Yes,No
+Yes,I don't know if my employer provides benefits,I don't know if my employer provides access resources,No,Yes,Yes,Possibly
+Yes,My employer provides benefits,I don't know if my employer provides access resources,Yes,Yes,Yes,Possibly
+Yes,I don't know if my employer provides benefits,My employer does not provide access resources,No,Yes,Yes,Possibly
+Yes,My employer provides benefits,I don't know if my employer provides access resources,Yes,Yes,Yes,Yes
+Yes,My employer provides benefits,I don't know if my employer provides access resources,No,No,Yes,Yes
+Yes,My employer provides benefits,My employer provides access resources,Yes,Yes,Yes,Possibly
+Yes,My employer provides benefits,I don't know if my employer provides access resources,No,Yes,Yes,Possibly
+Yes,My employer provides benefits,My employer provides access resources,No,No,Yes,Yes
+Yes,I don't know if my employer provides benefits,My employer does not provide access resources,Yes,No,No,No
+Yes,I don't know if my employer provides benefits,My employer does not provide access resources,Yes,Yes,Yes,Yes
+Yes,My employer provides benefits,My employer provides access resources,Yes,No,Yes,Possibly
+Yes,I don't know if my employer provides benefits,My employer does not provide access resources,No,Yes,Yes,No
+Yes,I don't know if my employer provides benefits,My employer does not provide access resources,Yes,Yes,Yes,Yes
+Yes,I don't know if my employer provides benefits,I don't know if my employer provides access resources,Yes,Yes,Yes,Possibly
+Yes,My employer provides benefits,My employer provides access resources,Yes,Yes,Yes,Yes
+Yes,My employer provides benefits,My employer does not provide access resources,Yes,No,Yes,Yes
+Yes,My employer provides benefits,I don't know if my employer provides access resources,No,Yes,Yes,Possibly
+Yes,I don't know if my employer provides benefits,My employer does not provide access resources,No,No,Yes,Possibly
+Yes,My employer provides benefits,I don't know if my employer provides access resources,No,No,Yes,Possibly
+Yes,My employer provides benefits,My employer provides access resources,Yes,Yes,Yes,Yes
+Yes,My employer provides benefits,My employer provides access resources,Yes,Yes,Yes,No
+Yes,My employer provides benefits,I don't know if my employer provides access resources,No,No,Yes,Yes
+Yes,My employer does not provide benefits,My employer does not provide access resources,No,No,Yes,No
+Yes,I don't know if my employer provides benefits,My employer does not provide access resources,Yes,No,Yes,Possibly
+Yes,I don't know if my employer provides benefits,My employer does not provide access resources,Yes,No,No,Don't Know
+Yes,I don't know if my employer provides benefits,My employer does not provide access resources,No,No,Yes,Yes
+Yes,I don't know if my employer provides benefits,My employer does not provide access resources,No,No,Yes,No
+Yes,My employer provides benefits,My employer provides access resources,No,No,Yes,Possibly
+Yes,My employer provides benefits,I don't know if my employer provides access resources,Yes,No,Yes,Yes
+Yes,My employer provides benefits,My employer provides access resources,Yes,No,Yes,Possibly
+Yes,My employer provides benefits,My employer does not provide access resources,Yes,No,Yes,Yes
+Yes,My employer provides benefits,I don't know if my employer provides access resources,No,No,Yes,Possibly
+Yes,My employer provides benefits,My employer does not provide access resources,No,No,Yes,No
+Yes,My employer provides benefits,My employer does not provide access resources,No,No,Yes,No
+Yes,My employer provides benefits,My employer provides access resources,Yes,Yes,Yes,No
+Yes,My employer provides benefits,My employer does not provide access resources,No,No,Yes,No
+Yes,My employer provides benefits,My employer does not provide access resources,No,No,Yes,Don't Know
+Yes,My employer provides benefits,My employer does not provide access resources,No,No,Yes,Possibly
+Yes,I don't know if my employer provides benefits,I don't know if my employer provides access resources,No,No,No,No
+Yes,My employer provides benefits,My employer provides access resources,No,Yes,Yes,Yes
+Yes,My employer provides benefits,My employer provides access resources,No,Yes,Yes,No
+Yes,My employer provides benefits,My employer does not provide access resources,No,Yes,Yes,Possibly
+Yes,My employer provides benefits,My employer provides access resources,No,No,Yes,No
+Yes,My employer provides benefits,My employer provides access resources,No,No,Yes,Possibly
+Yes,I don't know if my employer provides benefits,I don't know if my employer provides access resources,No,No,Yes,Yes
+Yes,I don't know if my employer provides benefits,My employer does not provide access resources,Yes,Yes,Yes,Yes
+Yes,My employer provides benefits,My employer provides access resources,No,Yes,Yes,No
+Yes,My employer provides benefits,My employer does not provide access resources,No,No,Yes,Possibly
+Yes,I don't know if my employer provides benefits,I don't know if my employer provides access resources,No,Yes,Yes,Yes
+Yes,My employer provides benefits,My employer provides access resources,Yes,Yes,Yes,Possibly
+Yes,I don't know if my employer provides benefits,My employer does not provide access resources,No,Yes,Yes,Possibly
+Yes,I don't know if my employer provides benefits,I don't know if my employer provides access resources,No,No,No,No
+Yes,My employer provides benefits,My employer does not provide access resources,No,Yes,Yes,Yes
+Yes,I don't know if my employer provides benefits,My employer does not provide access resources,No,No,No,No
+Yes,I don't know if my employer provides benefits,My employer does not provide access resources,No,No,No,Yes
+Yes,My employer provides benefits,My employer does not provide access resources,Yes,Yes,Yes,Yes
+Yes,My employer provides benefits,My employer provides access resources,Yes,No,Yes,No
+Yes,I don't know if my employer provides benefits,My employer does not provide access resources,Yes,Yes,Yes,Don't Know
+Yes,My employer provides benefits,I don't know if my employer provides access resources,No,No,Yes,No
+Yes,My employer provides benefits,My employer does not provide access resources,Yes,Yes,Yes,Yes
+Yes,My employer provides benefits,I don't know if my employer provides access resources,No,Yes,Yes,Yes
+Yes,My employer does not provide benefits,My employer does not provide access resources,No,No,Yes,Possibly
+Yes,My employer provides benefits,My employer does not provide access resources,No,No,Yes,No
+Yes,My employer provides benefits,My employer provides access resources,Yes,Yes,Yes,Yes
+Yes,My employer provides benefits,My employer provides access resources,Yes,No,Yes,Possibly
+Yes,I don't know if my employer provides benefits,My employer provides access resources,No,No,Yes,No
+Yes,My employer provides benefits,My employer provides access resources,Yes,Yes,Yes,No
+Yes,My employer provides benefits,I don't know if my employer provides access resources,Yes,Yes,Yes,Yes
+Yes,I don't know if my employer provides benefits,My employer does not provide access resources,No,No,No,Yes
+Yes,My employer provides benefits,My employer does not provide access resources,No,Yes,Yes,Yes
+Yes,My employer does not provide benefits,My employer does not provide access resources,Yes,Yes,Yes,Yes
+Yes,My employer provides benefits,My employer provides access resources,Yes,Yes,Yes,Possibly
+Yes,I don't know if my employer provides benefits,I don't know if my employer provides access resources,No,Yes,Yes,Possibly
+Yes,My employer provides benefits,My employer does not provide access resources,No,Yes,Yes,Yes
+Yes,My employer provides benefits,I don't know if my employer provides access resources,Yes,Yes,Yes,Yes
+Yes,My employer provides benefits,I don't know if my employer provides access resources,Yes,Yes,Yes,Yes
+Yes,I don't know if my employer provides benefits,I don't know if my employer provides access resources,No,No,Yes,Yes
+Yes,My employer provides benefits,I don't know if my employer provides access resources,No,Yes,Yes,Yes
+Yes,I don't know if my employer provides benefits,I don't know if my employer provides access resources,No,Yes,Yes,No
+Yes,My employer provides benefits,My employer provides access resources,No,Yes,Yes,Yes
+Yes,My employer provides benefits,My employer provides access resources,Yes,Yes,Yes,Yes
+Yes,My employer provides benefits,My employer provides access resources,Yes,Yes,Yes,Yes
+Yes,My employer provides benefits,My employer provides access resources,No,Yes,Yes,No
+Yes,My employer provides benefits,My employer provides access resources,No,Yes,Yes,No
+Yes,My employer does not provide benefits,My employer does not provide access resources,Yes,Yes,Yes,Possibly
+Yes,I don't know if my employer provides benefits,I don't know if my employer provides access resources,No,No,Yes,Possibly
+Yes,I don't know if my employer provides benefits,I don't know if my employer provides access resources,No,No,Yes,Don't Know
+Yes,My employer provides benefits,My employer does not provide access resources,Yes,Yes,Yes,Yes
+Yes,I don't know if my employer provides benefits,My employer does not provide access resources,No,No,Yes,Don't Know
+Yes,My employer provides benefits,My employer provides access resources,Yes,Yes,Yes,Yes
+Yes,My employer provides benefits,My employer provides access resources,Yes,Yes,Yes,Yes
+Yes,My employer provides benefits,My employer provides access resources,No,Yes,Yes,Yes
+Yes,My employer provides benefits,I don't know if my employer provides access resources,Yes,Yes,Yes,No
+Yes,My employer does not provide benefits,My employer does not provide access resources,No,Yes,Yes,Yes
+Yes,I don't know if my employer provides benefits,My employer does not provide access resources,Yes,Yes,Yes,Don't Know
+Yes,My employer provides benefits,My employer does not provide access resources,No,Yes,Yes,Possibly
+Yes,My employer does not provide benefits,I don't know if my employer provides access resources,No,No,Yes,Yes
+Yes,My employer provides benefits,My employer does not provide access resources,No,No,Yes,Yes
+Yes,My employer provides benefits,I don't know if my employer provides access resources,No,No,Yes,Possibly
+Yes,My employer does not provide benefits,My employer does not provide access resources,No,No,Yes,Don't Know
+Yes,My employer does not provide benefits,I don't know if my employer provides access resources,Yes,Yes,Yes,Possibly
+Yes,My employer provides benefits,I don't know if my employer provides access resources,No,No,Yes,No
+Yes,My employer provides benefits,My employer does not provide access resources,No,No,Yes,Possibly
+Yes,My employer provides benefits,I don't know if my employer provides access resources,No,Yes,Yes,Yes
+Yes,My employer provides benefits,My employer does not provide access resources,No,No,Yes,Yes
+Yes,My employer does not provide benefits,My employer does not provide access resources,No,No,Yes,Don't Know
+Yes,My employer does not provide benefits,My employer does not provide access resources,No,No,Yes,Yes
+Yes,My employer does not provide benefits,My employer does not provide access resources,Yes,Yes,Yes,Yes
+Yes,My employer provides benefits,My employer provides access resources,No,No,Yes,Yes
+Yes,I don't know if my employer provides benefits,My employer does not provide access resources,No,No,No,No
+Yes,My employer provides benefits,My employer provides access resources,Yes,Yes,Yes,Yes
+Yes,My employer provides benefits,My employer provides access resources,Yes,Yes,Yes,Yes
+Yes,My employer provides benefits,My employer provides access resources,No,No,Yes,No
+Yes,I don't know if my employer provides benefits,I don't know if my employer provides access resources,Yes,Yes,Yes,Possibly
+Yes,My employer provides benefits,My employer provides access resources,No,No,Yes,Don't Know
+Yes,My employer provides benefits,My employer does not provide access resources,No,Yes,Yes,Yes
+Yes,My employer provides benefits,I don't know if my employer provides access resources,Yes,Yes,Yes,Yes
+Yes,My employer provides benefits,My employer does not provide access resources,No,Yes,Yes,Possibly
+Yes,My employer provides benefits,My employer does not provide access resources,Yes,Yes,Yes,Yes
+Yes,I don't know if my employer provides benefits,My employer does not provide access resources,No,No,No,No
+Yes,I don't know if my employer provides benefits,My employer does not provide access resources,No,No,Yes,No
+Yes,My employer provides benefits,My employer does not provide access resources,No,No,Yes,Yes
+Yes,My employer provides benefits,My employer provides access resources,No,Yes,Yes,Yes
+Yes,I don't know if my employer provides benefits,My employer does not provide access resources,No,No,Yes,No
+Yes,My employer provides benefits,My employer does not provide access resources,No,No,Yes,Yes
+Yes,My employer does not provide benefits,My employer does not provide access resources,No,Yes,Yes,Yes
+Yes,My employer provides benefits,My employer provides access resources,No,No,Yes,No
+Yes,My employer provides benefits,My employer provides access resources,Yes,Yes,Yes,Yes
+Yes,I don't know if my employer provides benefits,My employer does not provide access resources,No,Yes,Yes,Yes
+Yes,My employer provides benefits,My employer provides access resources,Yes,Yes,Yes,No
+Yes,I don't know if my employer provides benefits,My employer does not provide access resources,No,No,Yes,Yes
+Yes,My employer provides benefits,My employer provides access resources,Yes,Yes,Yes,No
+Yes,I don't know if my employer provides benefits,I don't know if my employer provides access resources,Yes,Yes,Yes,Yes
+Yes,My employer provides benefits,My employer provides access resources,Yes,No,Yes,Yes
+Yes,My employer does not provide benefits,My employer does not provide access resources,Yes,Yes,Yes,Yes
+Yes,I don't know if my employer provides benefits,My employer provides access resources,No,Yes,Yes,Yes
+Yes,My employer provides benefits,I don't know if my employer provides access resources,No,No,Yes,Yes
+Yes,My employer provides benefits,My employer provides access resources,Yes,Yes,Yes,Yes
+Yes,My employer provides benefits,My employer does not provide access resources,No,No,Yes,No
+Yes,I don't know if my employer provides benefits,My employer provides access resources,No,No,Yes,Don't Know
+Yes,I don't know if my employer provides benefits,My employer provides access resources,No,No,No,No
+Yes,My employer provides benefits,My employer provides access resources,Yes,Yes,Yes,Yes
+Yes,My employer provides benefits,My employer provides access resources,Yes,Yes,Yes,Yes
+Yes,I don't know if my employer provides benefits,I don't know if my employer provides access resources,No,No,Yes,Possibly
+Yes,My employer provides benefits,My employer does not provide access resources,No,No,Yes,No
+Yes,My employer provides benefits,I don't know if my employer provides access resources,No,No,Yes,No
+Yes,My employer provides benefits,My employer provides access resources,No,Yes,Yes,No
+Yes,My employer provides benefits,I don't know if my employer provides access resources,No,No,Yes,Yes
+Yes,My employer provides benefits,My employer does not provide access resources,Yes,Yes,Yes,No
+Yes,My employer does not provide benefits,My employer does not provide access resources,No,No,Yes,No
+Yes,My employer provides benefits,My employer provides access resources,Yes,Yes,Yes,Yes
+Yes,I don't know if my employer provides benefits,My employer does not provide access resources,No,Yes,Yes,Possibly
+Yes,My employer provides benefits,I don't know if my employer provides access resources,Yes,Yes,Yes,Yes
+Yes,My employer provides benefits,My employer provides access resources,Yes,Yes,Yes,Yes
+Yes,My employer provides benefits,My employer provides access resources,No,No,Yes,No
+Yes,I don't know if my employer provides benefits,My employer does not provide access resources,No,No,No,Possibly
+Yes,My employer provides benefits,My employer provides access resources,No,No,Yes,No
+Yes,My employer provides benefits,My employer provides access resources,Yes,Yes,Yes,Yes
+Yes,My employer provides benefits,My employer provides access resources,No,No,Yes,No
+Yes,My employer provides benefits,I don't know if my employer provides access resources,No,No,Yes,Possibly
+Yes,I don't know if my employer provides benefits,My employer does not provide access resources,No,No,No,Yes
+Yes,My employer provides benefits,My employer provides access resources,No,Yes,Yes,Yes
+Yes,My employer provides benefits,My employer provides access resources,No,No,Yes,No
+Yes,My employer provides benefits,My employer does not provide access resources,Yes,Yes,Yes,Yes
+Yes,My employer provides benefits,My employer provides access resources,No,No,Yes,Possibly
+Yes,My employer provides benefits,I don't know if my employer provides access resources,Yes,Yes,Yes,Yes
+Yes,My employer provides benefits,My employer does not provide access resources,No,No,Yes,Don't Know
+Yes,My employer provides benefits,I don't know if my employer provides access resources,No,No,Yes,Possibly
+Yes,I don't know if my employer provides benefits,My employer does not provide access resources,No,No,Yes,No
+Yes,My employer provides benefits,I don't know if my employer provides access resources,Yes,Yes,Yes,Yes
+Yes,My employer provides benefits,My employer does not provide access resources,No,Yes,Yes,Don't Know
+Yes,I don't know if my employer provides benefits,My employer does not provide access resources,No,Yes,Yes,Yes
+Yes,My employer provides benefits,My employer provides access resources,No,No,Yes,No
+Yes,My employer provides benefits,My employer provides access resources,Yes,Yes,Yes,Yes
+Yes,I don't know if my employer provides benefits,My employer provides access resources,Yes,No,Yes,No
+Yes,My employer provides benefits,I don't know if my employer provides access resources,No,Yes,Yes,Yes
+Yes,My employer provides benefits,My employer provides access resources,Yes,Yes,Yes,No
+Yes,I don't know if my employer provides benefits,I don't know if my employer provides access resources,Yes,Yes,Yes,Possibly
+Yes,My employer provides benefits,I don't know if my employer provides access resources,Yes,Yes,Yes,Yes
+Yes,I don't know if my employer provides benefits,My employer does not provide access resources,No,No,No,Possibly
+Yes,My employer provides benefits,My employer provides access resources,No,No,Yes,Possibly
+Yes,My employer provides benefits,My employer does not provide access resources,Yes,Yes,Yes,Yes
+Yes,My employer does not provide benefits,I don't know if my employer provides access resources,No,Yes,Yes,No
+Yes,My employer provides benefits,My employer does not provide access resources,No,No,Yes,Don't Know
+Yes,My employer provides benefits,My employer does not provide access resources,No,Yes,Yes,No
+Yes,I don't know if my employer provides benefits,I don't know if my employer provides access resources,Yes,Yes,Yes,Yes
+Yes,I don't know if my employer provides benefits,I don't know if my employer provides access resources,No,No,Yes,Don't Know
+Yes,My employer provides benefits,My employer provides access resources,No,No,Yes,No
+Yes,I don't know if my employer provides benefits,My employer provides access resources,No,No,No,No
+Yes,My employer provides benefits,My employer does not provide access resources,No,No,Yes,No
+Yes,I don't know if my employer provides benefits,My employer does not provide access resources,No,No,Yes,Possibly
+Yes,My employer provides benefits,I don't know if my employer provides access resources,No,Yes,Yes,Possibly
+Yes,My employer does not provide benefits,My employer does not provide access resources,Yes,Yes,Yes,Yes
+Yes,My employer does not provide benefits,I don't know if my employer provides access resources,Yes,No,Yes,Yes
+Yes,My employer does not provide benefits,I don't know if my employer provides access resources,Yes,Yes,Yes,No
+Yes,My employer does not provide benefits,My employer does not provide access resources,Yes,Yes,Yes,Possibly
+Yes,My employer provides benefits,My employer does not provide access resources,No,Yes,Yes,No
+Yes,My employer provides benefits,My employer provides access resources,No,Yes,Yes,No
+Yes,My employer provides benefits,I don't know if my employer provides access resources,Yes,Yes,Yes,Possibly
+Yes,My employer provides benefits,My employer provides access resources,No,Yes,Yes,No
+Yes,My employer provides benefits,My employer provides access resources,Yes,Yes,Yes,Yes
+Yes,My employer provides benefits,My employer does not provide access resources,No,No,Yes,Yes
+Yes,My employer provides benefits,My employer provides access resources,No,No,Yes,No
+Yes,I don't know if my employer provides benefits,My employer does not provide access resources,Yes,Yes,Yes,Yes
+Yes,My employer does not provide benefits,My employer provides access resources,Yes,Yes,Yes,Yes
+Yes,I don't know if my employer provides benefits,My employer provides access resources,No,No,No,Possibly
+Yes,My employer does not provide benefits,My employer does not provide access resources,No,No,No,No
+Yes,My employer provides benefits,My employer provides access resources,Yes,Yes,Yes,No
+Yes,I don't know if my employer provides benefits,My employer does not provide access resources,No,No,Yes,Don't Know
+Yes,My employer provides benefits,I don't know if my employer provides access resources,No,No,Yes,No
+Yes,My employer provides benefits,My employer provides access resources,Yes,Yes,Yes,Yes
+Yes,My employer provides benefits,My employer provides access resources,Yes,Yes,Yes,Possibly
+Yes,My employer provides benefits,My employer provides access resources,Yes,Yes,Yes,Yes
+Yes,My employer provides benefits,My employer provides access resources,No,Yes,Yes,Possibly
+Yes,I don't know if my employer provides benefits,I don't know if my employer provides access resources,No,Yes,Yes,Yes
+Yes,My employer does not provide benefits,My employer does not provide access resources,Yes,Yes,Yes,No
+Yes,I don't know if my employer provides benefits,I don't know if my employer provides access resources,No,No,Yes,Possibly
+Yes,My employer provides benefits,My employer provides access resources,No,No,Yes,No
+Yes,My employer provides benefits,I don't know if my employer provides access resources,No,Yes,Yes,No
+Yes,My employer does not provide benefits,My employer does not provide access resources,No,No,Yes,No
+Yes,My employer does not provide benefits,My employer provides access resources,Yes,No,Yes,Yes
+Yes,My employer provides benefits,I don't know if my employer provides access resources,No,No,Yes,No
+Yes,My employer provides benefits,My employer does not provide access resources,No,No,Yes,Possibly
+Yes,My employer provides benefits,My employer provides access resources,Yes,Yes,Yes,No
+Yes,My employer provides benefits,My employer does not provide access resources,No,Yes,Yes,Yes
+Yes,I don't know if my employer provides benefits,My employer provides access resources,No,No,Yes,No
+Yes,My employer does not provide benefits,My employer does not provide access resources,No,No,Yes,Yes
+Yes,My employer provides benefits,My employer provides access resources,Yes,Yes,Yes,Yes
+Yes,I don't know if my employer provides benefits,I don't know if my employer provides access resources,No,No,Yes,No
+Yes,My employer provides benefits,My employer provides access resources,No,No,Yes,Yes
+Yes,My employer provides benefits,My employer does not provide access resources,No,No,Yes,Don't Know
+Yes,My employer provides benefits,My employer does not provide access resources,Yes,Yes,Yes,Yes
+Yes,My employer does not provide benefits,My employer does not provide access resources,No,Yes,Yes,Yes
+Yes,My employer provides benefits,My employer provides access resources,No,No,Yes,Possibly
+Yes,My employer does not provide benefits,I don't know if my employer provides access resources,No,No,No,No
+Yes,My employer provides benefits,My employer provides access resources,Yes,Yes,Yes,Yes
+Yes,My employer provides benefits,My employer provides access resources,Yes,Yes,Yes,Yes
+Yes,My employer provides benefits,I don't know if my employer provides access resources,No,Yes,Yes,Yes
+Yes,My employer provides benefits,My employer provides access resources,Yes,Yes,Yes,No
+Yes,My employer provides benefits,My employer does not provide access resources,No,No,Yes,Yes
+Yes,My employer provides benefits,My employer does not provide access resources,Yes,Yes,Yes,Yes
+Yes,My employer provides benefits,My employer provides access resources,Yes,Yes,Yes,Possibly
+Yes,My employer provides benefits,I don't know if my employer provides access resources,No,No,Yes,Yes
+Yes,I don't know if my employer provides benefits,I don't know if my employer provides access resources,No,No,No,Don't Know
+Yes,I don't know if my employer provides benefits,I don't know if my employer provides access resources,No,Yes,No,Yes
+Yes,My employer provides benefits,My employer does not provide access resources,No,Yes,Yes,Possibly
+Yes,My employer provides benefits,My employer provides access resources,Yes,Yes,Yes,Yes
+Yes,My employer provides benefits,My employer provides access resources,No,Yes,Yes,Yes
+Yes,I don't know if my employer provides benefits,My employer does not provide access resources,No,No,No,Possibly
+Yes,My employer provides benefits,My employer provides access resources,No,No,Yes,No
+Yes,My employer provides benefits,My employer provides access resources,No,No,Yes,No
+Yes,My employer does not provide benefits,My employer does not provide access resources,No,Yes,Yes,Yes
