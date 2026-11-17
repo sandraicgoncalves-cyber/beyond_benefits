@@ -19,7 +19,7 @@ We expect to identify opportunities for organisations to make mental health supp
 4. Organisations highlight the availability of mental health resources more often than they communicate how employees can access them.
 
 ## Sources
-- OSMI Mental Health in Tech Survey
+- OSMI Mental Health in Tech Survey - https://data.mendeley.com/datasets/mmnzx4w8cg/1?
 - Official pages from tech companies
 
 ## Methodology 
